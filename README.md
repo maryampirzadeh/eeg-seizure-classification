@@ -98,8 +98,8 @@ Validation Accuracy: ~0.98
 The model performs well on the validation set and correctly classifies most EEG signals.
 
 Check:
-results/confusion_matrix.PNG  
-results/final_metrics.PNG  
+![Confusion Matrix](results/confusion_matrix.png)
+![Final Metrics](results/final_metrics.png)
 
 ---
 
